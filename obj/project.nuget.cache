@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixM4WkHknN77WVb0+XPNTzHR2zlbNiY4OSuSMRvTQ8fcWi5//2usHucuDctf5TEuglwLb9VAycDQU1KnLjIrlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Namanda\\Downloads\\Compressed\\Mfiles\\Mfiles\\Mfiles\\Mfiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Namanda\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Namanda\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
